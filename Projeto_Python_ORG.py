@@ -16,3 +16,4 @@ for arquivo in lista_arquivos:
         if extensao in locais[pasta]:
             if not os.path.exists(f'{caminho}/{pasta}'):
                 os.mkdir(f'{caminho}/{pasta}')
+            os.rename(f'{caminho}/{arquivo}', f"{caminho}/{pasta}/{arquivo}")
