@@ -1,2 +1,2 @@
 # ProjetoPythonPDC
-Aplicação em python para organizar uma pasta dentro de seu computador e separar seus arquivos de acordo com seus formatos (pdf´s, imagens...) e logo depois usar a pasta criada para os pdf´s, mesclar esses pdf´s em apenas uma arquivo.
+Aplicação em python para mesclar arquivos PDF de uma pasta em apenas um arquivo, logo depois organuzando as pastas desejadas do seu computador e separando os arquivos de acordo comseus formatos (PDF, PNG, JPEG, etc.).
